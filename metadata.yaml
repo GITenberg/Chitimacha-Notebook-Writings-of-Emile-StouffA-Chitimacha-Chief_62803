@@ -1,0 +1,32 @@
+_repo: Chitimacha-Notebook-Writings-of-Emile-StouffA-Chitimacha-Chief_62803
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stouff, Emile
+    deathdate: 1978
+    gutenberg_agent_id: '52134'
+    url: http://www.gutenberg.org/2009/agents/52134
+  editor:
+    agent_name: Gaudet, Marcia G.
+    aliases:
+    - Gaudet, M. Marcia
+    - Gaudet, Mary Marcia Gendron
+    birthdate: 1943
+    gutenberg_agent_id: '52135'
+    url: http://www.gutenberg.org/2009/agents/52135
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Louisiana'
+- !lcc 'E011'
+- !lcsh 'Chitimacha Indians'
+- GITenberg
+title: 'Chitimacha Notebook: Writings of Emile Stouff—A Chitimacha Chief'
+url: http://www.gutenberg.org/ebooks/62803
